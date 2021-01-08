@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>style/Button.qml</file>
+        <file>icons/PC_Logo.svg</file>
+        <file>pages/Home.qml</file>
+        <file>controls/ListButton.qml</file>
+        <file>controls/qmldir</file>
+        <file>icons/test_poster.jpg</file>
+        <file>icons/grid.svg</file>
+        <file>icons/list.svg</file>
+        <file>icons/favorite_filled.svg</file>
+    </qresource>
+</RCC>
